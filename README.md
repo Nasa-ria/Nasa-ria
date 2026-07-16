@@ -13,7 +13,9 @@
 I am a Backend Developer with over 3 years of experience specializing in the Laravel and Node.js, JavaScript and React   ecosystems. I bridge the gap between complex business requirements and high-performance technical solutions, with a strong focus on API architecture, secure payment systems, and cloud deployment. As a goal-oriented team player, I am dedicated to writing clean, testable code and am always eager to master emerging technologies to drive organizational success
 
 🔭 &nbsp;I'm currently working on **working on a swimming management platform and a website for an e-commerce**  
-🌱 &nbsp;I'm currently learning **learning next js , how to deploy application on vercel and  taking a course on AWS**  
+🌱 &nbsp;I'm currently learning **learning next js aand aws
+                # how to deploy application on vercel and
+              
 👯 &nbsp;I'm looking to collaborate on **open source projects**
 
 ### 🛠️ Tech Stack
